@@ -1,0 +1,17 @@
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\yandex.exe.config
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\yandex.exe
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\yandex.pdb
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\ThoughtWorks.Selenium.Core.dll
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\WebDriver.dll
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\WebDriver.Support.dll
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\ThoughtWorks.Selenium.Core.xml
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\WebDriver.pdb
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\WebDriver.xml
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\WebDriver.Support.pdb
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\bin\Debug\WebDriver.Support.xml
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\obj\Debug\yandex.exe
+h:\users\user\documents\visual studio 2015\Projects\yandex\yandex\obj\Debug\yandex.pdb
